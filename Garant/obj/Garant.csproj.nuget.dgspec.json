@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\Garant\\Garant.csproj": {}
+    "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\GarantService\\Garant\\Garant.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\Garant\\Garant.csproj": {
+    "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\GarantService\\Garant\\Garant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\Garant\\Garant.csproj",
+        "projectUniqueName": "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\GarantService\\Garant\\Garant.csproj",
         "projectName": "Garant",
-        "projectPath": "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\Garant\\Garant.csproj",
+        "projectPath": "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\GarantService\\Garant\\Garant.csproj",
         "packagesPath": "C:\\Users\\iprus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\Garant\\obj\\",
+        "outputPath": "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\GarantService\\Garant\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iprus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HihVNyx/IWkCCwK/9x2hJw+XjaP3jmJ1PsR3ok8FVN215mwiWYLcKyAZLDLJ31pLW4hiCfekJf1JX+rgeXRDdA==",
+  "dgSpecHash": "SoxTQVKFsSTypZgySFgzm8I/yosr94J9g+GnUP7kLOPz209MY5tEFeIWQs3kx2w5YKyonVhzdGRY3SVsgGsG4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\Garant\\Garant.csproj",
+  "projectFilePath": "C:\\Users\\iprus\\OneDrive\\Desktop\\GarantServis.ASP.NET-master\\GarantService\\Garant\\Garant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iprus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\iprus\\.nuget\\packages\\mailkit\\2.6.0\\mailkit.2.6.0.nupkg.sha512",
