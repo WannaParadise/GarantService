@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\iprus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\iprus\\.nuget\\packages"
+    ]
+  }
+}
